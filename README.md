@@ -1,2 +1,3 @@
 # cpp_leetcode
-- Basic for easy problems
+- Basic folder for easy problems
+- Record medium and daily problems
